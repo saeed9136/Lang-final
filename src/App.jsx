@@ -19,6 +19,7 @@ function App() {
       })}
       <h1>{t("greeting")} </h1>
       <h1>{t("love")} </h1>
+      <h1>learn more and more</h1>
     </div>
   )
 }
